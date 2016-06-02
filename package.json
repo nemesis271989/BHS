@@ -1,0 +1,23 @@
+{
+  "name": "bhs-html",
+  "version": "1.0.0",
+  "description": "bhs wp theme project",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nemesis271989/bhs.git"
+  },
+  "author": "nemesis271989",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nemesis271989/bhs/issues"
+  },
+  "homepage": "https://github.com/nemesis271989/bhs#readme"
+}
