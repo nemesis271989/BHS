@@ -16,10 +16,10 @@ body {
   box-shadow: 1px 1px 3px #000;
   padding: 0;
 }
-img {
+/*img {
   width: 100%;
   height: auto;
-}
+}*/
 
 .nav-top ul {
   max-width: 500px;

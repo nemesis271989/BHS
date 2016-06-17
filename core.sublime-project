@@ -1,0 +1,25 @@
+
+
+{
+    "folders":
+    [
+        { // theme
+            "path": "~/sites/bhs/",
+            "name": "Core",
+            
+            "folder_exclude_patterns": [
+                "images"
+            ]
+        },
+        { // plugins folder
+            "path": "~/sites/bhs/wp-content/themes/bhs-theme",
+            "name": "Bhs-theme",
+            
+            "folder_exclude_patterns": [
+                "akismet"//,
+                // add any other plugins you wish to exclude
+            ]
+        }
+    ],
+   
+}

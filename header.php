@@ -8,7 +8,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 <!-- FAVICON contains dymanic templete directory  ...php bloginfo...  -->
-<link rel="icon" href="<?php bloginfo('template_directory'); ?>/img/favicon.ico">
+<link rel="icon" href="<?php bloginfo('template_directory'); ?>img/favicon.ico">
 <!-- Dinamic Title collects website title then ads | ....  -->
 <title><?php wp_title( '|', true, 'right' ); ?></title>
 <!-- Bootstrap core CSS -->

@@ -1,0 +1,1673 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"arrmer",
+				"array_merge"
+			],
+			[
+				"perc",
+				"percent_to_alpha"
+			],
+			[
+				"precent",
+				"percent_to_alpha"
+			],
+			[
+				"term",
+				"term_folder"
+			],
+			[
+				"att",
+				"attendPoints"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"with",
+				"withInput"
+			],
+			[
+				"Auth",
+				"Auth::check	Auth-check"
+			],
+			[
+				"Lorem",
+				"Lorem	Lorem3"
+			],
+			[
+				"borr",
+				"border-radius"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"l5lo",
+				"L5-CMS-Log-In.php"
+			],
+			[
+				"log",
+				"crossroads-logo-header.png	w:123 h:37"
+			],
+			[
+				"L5",
+				"L5-CMS-Log-In.php"
+			],
+			[
+				"l4",
+				"L4-ListToProfiles-Profiles.php"
+			],
+			[
+				"dbSl",
+				"dbSlides_slide"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"rep",
+				"no-repeat"
+			],
+			[
+				"lorem",
+				"lorem	meatch-lorem-revised"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"logo",
+				"bsr-logo-header.jpg	w:374 h:40"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"n",
+				"nav-4.html"
+			],
+			[
+				"4",
+				"row4.jpg	w:1170 h:432"
+			],
+			[
+				"mrg",
+				"margin"
+			],
+			[
+				"til",
+				"bgtile-seamless.jpg	w:450 h:450"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"strin",
+				"string_click"
+			],
+			[
+				"roll",
+				"roll_over"
+			],
+			[
+				"swa",
+				"swap_over"
+			],
+			[
+				"sc",
+				"scripts.js"
+			],
+			[
+				"ch",
+				"chevron-light-right"
+			],
+			[
+				"chevron-",
+				"mg-chevron-right"
+			],
+			[
+				"im",
+				"img/"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"inlen",
+				"inline-block"
+			],
+			[
+				"pn",
+				"logo-BS-footer.png	w:126 h:73"
+			],
+			[
+				"textdec",
+				"text-decoration"
+			],
+			[
+				"ad",
+				"ad_quiz.php"
+			],
+			[
+				"a",
+				"ad_quiz.php"
+			],
+			[
+				"pag",
+				"inc_pagination.php"
+			],
+			[
+				"inc",
+				"inc_feedback.php"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"min",
+				"font-awesome.min.css"
+			],
+			[
+				"win",
+				"winWidth"
+			],
+			[
+				"b",
+				"bootstrap.min.css"
+			],
+			[
+				"shad",
+				"actionmanshaded_regular_macroman/"
+			],
+			[
+				"fonts",
+				"fonts/"
+			],
+			[
+				"ligh",
+				"light_on"
+			],
+			[
+				"bgc",
+				"background-color"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"red_",
+				"red_click"
+			],
+			[
+				"fonts-",
+				"font-size"
+			],
+			[
+				"jpg",
+				"header.jpg	w:928 h:282"
+			],
+			[
+				"h3-bg-sprite",
+				"h3-bg-sprite-mirror.jpg	w:1000 h:100"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"staf",
+				"staff3-gina.jpg	w:133 h:133"
+			],
+			[
+				"mysql_num_",
+				"mysql_num_rows"
+			],
+			[
+				"c2",
+				"c2a-top.jpg	w:291 h:143"
+			],
+			[
+				"awes",
+				"font-awesome.min.css"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"liststyl",
+				"list-style-type"
+			],
+			[
+				"border-wid",
+				"border-bottom-width"
+			],
+			[
+				"c2a",
+				"c2a-tile.jpg	w:722 h:7"
+			],
+			[
+				"con",
+				"content-footer.jpg	w:722 h:30"
+			],
+			[
+				"repeat",
+				"repeat-x"
+			],
+			[
+				"ave",
+				"avenger_over"
+			],
+			[
+				"tab",
+				"tabs-selected.png	w:238 h:53"
+			],
+			[
+				"thumb",
+				"thumb_over"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 4236,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "core.sublime-project",
+			"settings":
+			{
+				"buffer_size": 516,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "http://nemesis271989.aisites.com",
+			"settings":
+			{
+				"buffer_size": 32,
+				"line_ending": "Unix",
+				"name": "http://nemesis271989.aisites.com"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"last_filter": "save ",
+		"selected_items":
+		[
+			[
+				"save ",
+				"Project: Save As"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown",
+				"Markdown Slideshow"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"syn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn css",
+				"Set Syntax: CSS"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"disb",
+				"Package Control: Disable Package"
+			],
+			[
+				"syn lar",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"scr",
+				"Laravel Artisan 5: Schedule:Run"
+			],
+			[
+				"disba",
+				"Package Control: Disable Package"
+			],
+			[
+				"war",
+				"Word Wrap: Toggle"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"syn sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"syncss",
+				"Set Syntax: CSS"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"syn",
+				"Set Syntax: HTML"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"Wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"map",
+				"View: Toggle Minimap"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"packag ins",
+				"Package Control: Install Package"
+			],
+			[
+				"synhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn htn",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"diab",
+				"Package Control: Disable Package"
+			],
+			[
+				"syn cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"painst",
+				"Package Control: Install Package"
+			],
+			[
+				"enal",
+				"Package Control: Enable Package"
+			],
+			[
+				"packen",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pali",
+				"Package Control: List Packages"
+			],
+			[
+				"wa",
+				"Word Wrap: Toggle"
+			],
+			[
+				"synt html",
+				"Set Syntax: HTML"
+			],
+			[
+				"synphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"synja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htmnl",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"synh",
+				"Set Syntax: HTML"
+			],
+			[
+				"synjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synht",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 458.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/student/sites/bhs",
+		"/Users/student/sites/bhs/wp-content/themes/bhs-theme"
+	],
+	"file_history":
+	[
+		"/Users/student/.bash_profile",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/public_html/assets/resources/Web-Design-2-JavaScript-And-jQuery/S09-Pinned-Navigations-Optional/S09-A-Less-Pinned-Navs/S09-A-Less-Pinned-Navs-Done/_js/scripts.js",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/public_html/assets/resources/Web-Design-2-JavaScript-And-jQuery/S09-Pinned-Navigations-Optional/S09-A-Less-Pinned-Navs/S09-A-Less-Pinned-Navs-Done/index.html",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/586532BE-E103-49F0-9465-1F13EE5FB0BD/index",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/1018D922-08A1-4184-81D9-ED05FEEBF4DF/index.html",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/EC3E65EA-EE63-4252-87F6-3B70D125F4AD/index",
+		"/Users/meatch/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/meatch/MeatchPod/_CLIENTS/MSMU-OL.edu/_MASTER ACCESS.md",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/33C24817-47D7-4F91-8908-7F99CD003E1A/page-request-estimate.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/MSMU-OL.edu/Canvas/js/msmu.all.js",
+		"/Users/meatch/MeatchPod/_CLIENTS/MSMU-OL.edu/Canvas/js/msmu.all.min.js",
+		"/Users/meatch/MeatchPod/_CLIENTS/MSMU-OL.edu/Canvas/header.replacement.syllabus.html",
+		"/Users/meatch/MeatchPod/_CLIENTS/MSMU-OL.edu/Canvas/css/layout_2c.scss",
+		"/Users/meatch/MeatchPod/_CLIENTS/MSMU-OL.edu/Canvas/css/layout_2c.min.css",
+		"/Users/meatch/MeatchPod/_CLIENTS/MSMU-OL.edu/Canvas/js/msmu.header.replacement.js",
+		"/Users/meatch/Desktop/test.js",
+		"/Users/meatch/MeatchPod/_CLIENTS/MSMU-OL.edu/Canvas/js/msmu.login.find.replace.msmuemail.js",
+		"/Users/meatch/MeatchPod/_CLIENTS/MSMU-OL.edu/Canvas/js/msmu.google-analytics.js",
+		"/private/var/folders/pt/jpk5cw8n41zgbn2037ry1g980000gn/T/com.microsoft.Outlook/Outlook Temp/script[2].js",
+		"/Users/meatch/MeatchPod/_CLIENTS/MSMU-OL.edu/Canvas/css/legacy/layout_2b.css",
+		"/Users/meatch/MeatchPod/_CLIENTS/MSMU-OL.edu/Canvas/css/legacy/layout_2a.css",
+		"/Users/meatch/MeatchPod/_CLIENTS/MSMU-OL.edu/Canvas/css/sass/_global.scss",
+		"/Users/meatch/MeatchPod/_CLIENTS/MSMU-OL.edu/Canvas/css/layout_2c.css",
+		"/Users/meatch/MeatchPod/_CLIENTS/MSMU-OL.edu/Canvas/css/layout_2a.scss",
+		"/Users/meatch/MeatchPod/_CLIENTS/MSMU-OL.edu/EmailSignatures/index.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/MSMU-OL.edu/EmailSignatures/samples/email_signature_mgohman-3.html",
+		"/Users/meatch/Library/Mail/V3/MailData/Signatures/84976514-A512-4755-9D19-3510864796DA.mailsignature",
+		"/Users/meatch/Library/Mail/V3/MailData/Signatures/42363284-1C58-4B5E-880E-1782678A8052.mailsignature",
+		"/Users/meatch/Library/Mail/V3/MailData/Signatures/81DCBB9B-02A9-44AC-9E64-50D4F849914A.mailsignature",
+		"/Users/meatch/Library/Mail/V3/MailData/Signatures/AC947824-EAC3-4805-A16B-D18D53160685.mailsignature",
+		"/Users/meatch/Library/Mail/V3/MailData/Signatures/6EDA27C3-07CB-4FCB-BFFE-8F066BFEF2BF.mailsignature",
+		"/Users/meatch/Library/Mail/V3/MailData/Signatures/E4A1A917-437F-493D-87BB-5166C4153CFC.mailsignature",
+		"/Users/meatch/MeatchPod/_CLIENTS/ZachHorn/lahomeandstyle.com/2016.lahomeandstyle.com/wp-content/themes/lahomeandstyle_2016/css/_type-classes.scss",
+		"/Users/meatch/MeatchPod/_CLIENTS/ZachHorn/lahomeandstyle.com/2016.lahomeandstyle.com/wp-content/themes/lahomeandstyle_2016/style.css",
+		"/Users/meatch/MeatchPod/_CLIENTS/KellieCowles/MASTER ACCESS-fit4thehills.com.md",
+		"/Users/meatch/Desktop/functions_sample.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/KellieCowles/MASTER ACCESS-kelliecowles.com.md",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/620D3078-51F9-4D86-97F6-1F27F23CFF3C/wp-config.php",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/5CCE4F78-0EFD-4532-A11C-B04E5A3D5C1E/wp-config.php",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/E7EF57A6-ACA4-423C-8EC2-59F0711559AA/auctions.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/resources/views/pages/hub/course/session.blade.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/app/Http/Controllers/CourseController.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/resources/views/pages/hub/course/inc-session-assignment-list.blade.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/app/Grade.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/app/Http/Controllers/CourseAdminController.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/resources/views/pages/hub/course/admin/sessions.blade.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/resources/views/pages/hub/course/admin/nav.blade.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/app/Http/routes.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/_Enspyred/TASKS/Tasklist-2015.12.24.txt",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/app/Http/Controllers/GradebookController.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/resources/views/pages/hub/course/admin/gradebook/report.blade.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/public_html/assets/css/styles.scss",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/public_html/assets/css/sass/_classroom.scss",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/resources/views/pages/hub/course/grades/inc-overall.blade.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/resources/views/pages/hub/course/admin/gradebook/attendance.blade.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/resources/views/pages/hub/course/grades/grades.blade.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/Tasks.txt",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/public_html/assets/resources/Web-Design-1-HTML-And-CSS/S03-The-Cascade-And-Fonts/S03-B-Chal-Cascading-Boxes/S03-B-Chal-Cascading-Boxes-Done/__instructions/challenge-description.html",
+		"/Users/meatch/MeatchPod/_CLIENTS/MSMU.edu/_MASTER ACCESS.md",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/resources/views/emails/file-submission-receipt.blade.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/public_html/assets/resources/Web-Design-1-HTML-And-CSS/S04-Tables-Positioning/S04-A-Less-Tables-Positioning/S04-A-Less-Tables-Positioning/5-centering.html",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/resources/views/pages/hub/course/admin/gradebook/assignment.blade.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/app/Http/Controllers/HubController.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/app/Http/Controllers/UserController.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/app/User.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/.gitignore",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/public_html/assets/js/scripts.js",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/resources/views/pages/hub/user/profile.blade.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/resources/views/emails/password-reset.blade.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/resources/views/pages/hub/course/admin/index.blade.php",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/06E6D0C8-7591-475C-9593-870BC4F9D79F/.env",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/app/Http/Controllers/FrontDoorController.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/app/Assignment_Submit.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/app/Attendance.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/app/Assignment.php",
+		"/Users/meatch/MeatchPod/_TEACH/__BUILDER/Web-Design-6-Wordpress/cheat-sheet-snippets.php",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/B2C1C244-8AC0-4527-87F6-6A12F957955A/functions.php",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/B2688122-342B-4572-ACE7-0AECA11534DE/footer-hub-2013.php",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/D730B5D8-D9A1-40A8-8DEE-6299155D242A/footer-2013-02.php",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/6BEEFB7E-795E-4A8C-B239-0FF3C77CC16E/auctions.php",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/3A505482-E3CE-42B2-A075-00A01D44245F/footer.php",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/BD108DD0-1D29-4463-99AB-49CB149A39E0/page-Frank-Lloyd-Wright-Sturges-Residence.php",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/DA70BCCC-B489-42FF-8B26-130A01BADE5B/cls_auctions.php",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/70989D03-CD96-461A-B191-AFEB34C7364C/style.css",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/9597231C-E2D8-48E9-8BB0-1F2963F85BB3/styles_auctions.css",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/app/Course.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/resources/views/pages/hub/course/videos/series.blade.php",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/EAFF42A4-8F51-4F5C-A969-704B6284A2EA/.env",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/config/app.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/resources/views/pages/hub/videos/series.blade.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/app/Session.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/resources/views/pages/hub/videos/inc-episode.blade.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/app/File.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/resources/views/pages/hub/videos/episode.blade.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/resources/views/pages/hub/course/videos/episode.blade.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/resources/views/pages/hub/course/admin/clone.blade.php",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/public_html/assets/resources/Web-Design-3-Responsive-And-Frameworks/defined.md",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/public_html/assets/resources/Web-Design-1-HTML-And-CSS/defined.md",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/resources/views/pages/hub/course/admin/students.blade.php",
+		"/Users/meatch/MeatchPod/_TEACH/__BUILDER/Web-Design-2-HTML-And-CSS/defined.md",
+		"/Users/meatch/MeatchPod/_TEACH/__BUILDER/Web-Design-3-JavaScript-And-jQuery/defined.md",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/public_html/assets/css/styles.min.css",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/public_html/assets/css/.sass-cache/76e29c95787858d9195fc3da1d88744008658619/_classroom.scssc",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/resources/views/pages/hub/course/assignments/inc-assignment.blade.php",
+		"/Users/meatch/MeatchPod/GIT/2-Remote-Hosted-Server-As-Git-Repository.md",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/86251D74-232B-430D-A6C3-72144B097243/.env",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/E945C8EF-CE6D-415F-A5B3-DC8C9EF341A5/post-receive",
+		"/Users/meatch/Desktop/mst-bus-106-business-law-ii-export.imscc",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/2A714FAB-7E09-468A-9CDC-6313331F1E78/GradebookController.php",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/33AFAA17-79A5-4367-A7F4-1DAECB95722C/GradebookController.php",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/25C579D2-B399-4726-A9AA-5360E3569F04/php.ini.bak",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/34CEFEBD-1716-4F34-AF0C-E66765BEEA5C/php.ini",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/6F31E9BE-50E6-4006-9F1D-2CA880DED74A/error_log",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/CFA6D661-205D-4E5D-8BBF-50788EF74F32/phpinfo.php",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/298D7233-5E3F-4174-A2E4-DFF5FCE646FD/php.ini",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/380692F6-A890-4096-803A-5F545587F510/php.ini",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/75E0F5BD-59C9-4F2A-A0B6-AE248E570F33/php.ini",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/267EEC3A-63B3-4486-8AF6-60278F714E81/.htaccess",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/66D67987-12D2-4E4B-A385-91500FA5545B/.htaccess",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/E7EE1EAD-4D4F-4044-84A2-7295B58D6252/GradebookController.php",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/0005BD48-4963-421C-BAA8-4CE6DAC1B7DC/.htaccess",
+		"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/php.ini",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/C4EA9BB7-0C3E-461B-B800-103ADEE095B5/error_log",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/25984779-7831-481C-B2F3-87ED0932E3CF/php.ini",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/F901A04F-6B61-4CF5-AC8F-E3D8CC4F475C/php.ini",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/1F2AB3C7-1852-4394-A240-D338AA2DE8DD/php.ini",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/FFE4E249-6381-41FA-BB6B-11D9B3ABA0E7/.htaccess",
+		"/Users/meatch/Library/Caches/Cleanup At Startup/Transmit/8047A04E-98E3-46F0-9B76-2FCBE0C5FB23/error_log"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 314.0,
+		"where_history":
+		[
+			"",
+			"<open folders>",
+			"",
+			"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5",
+			"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5avatar",
+			"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5",
+			"",
+			"/Users/meatch/MeatchPod/_CLIENTS/_Enspyred/enspyred.dev",
+			"/Users/meatch/MeatchPod/htdocs/_Enspyred/enspyred.dev",
+			"",
+			"/Users/meatch/MeatchPod/_Teaching/__BUILDER/Web Design 4 - JavaScript & jQuery/Course Resources/JS-JQuery-1",
+			"",
+			"/Users/meatch/MeatchPod/htdocs/_Enspyred/enspyred.dev/app/views",
+			"/Users/meatch/MeatchPod/htdocs/Landmark/landmark_2015.07-Laravel-v5.0/vendor/",
+			"/Users/meatch/MeatchPod/htdocs/Landmark/landmark_2015.07-Laravel-v5.0/resources/",
+			"/Users/meatch/MeatchPod/htdocs/Landmark/landmark_2015.07-Laravel-v5.0/config/",
+			"/Users/meatch/MeatchPod/htdocs/Landmark/landmark_2015.07-Laravel-v5.0/app/",
+			"/Users/meatch/MeatchPod/htdocs/Landmark/landmark_2015.07-Laravel-v5.0/app",
+			"/Users/meatch/MeatchPod/htdocs/Landmark/landmark_2015.07-Laravel-v5.0",
+			"/Users/meatch/MeatchPod/htdocs/Landmark/landmark_2015.07-Laravel-v5.0/resources/views",
+			"",
+			"/Users/meatch/MeatchPod/htdocs/Landmark/landmark_2015.06/",
+			"/Users/meatch/MeatchPod/htdocs/Landmark/landmark_2015.06/resources/views",
+			"/Users/meatch/MeatchPod/htdocs/Landmark/landmark_2015.06/",
+			"/Users/meatch/MeatchPod/htdocs/Landmark/landmark_2015.06/resources/views",
+			"/Users/meatch/MeatchPod/htdocs/Landmark/landmark_2015.06/resources/views/pages",
+			"",
+			"/Users/meatch/MeatchPod/htdocs/_Enspyred/enspyred.dev",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"carousel",
+			"realized",
+			"download",
+			"Prices Realized ",
+			"BUYER'S PREMIUM",
+			"msmu_header_page",
+			"scroll_stopper_bottom",
+			"');\n",
+			");\n",
+			"kelliecowles.com",
+			"american",
+			"$user",
+			"avatars",
+			"this->",
+			";\n",
+			"user",
+			"register_nav_menus",
+			"menus",
+			"#lot-item-details strong",
+			"lotNumber",
+			"asset_lot_profile_bidLinks",
+			"avatar_check",
+			"logout",
+			"Assignment Videos",
+			"Session Videos",
+			"->",
+			"video",
+			"/assets/resources/Web-Design-2-JavaScript-And-jQuery/S07-Lightboxes/S07-B-Chal-Lightbox-Messages/videos",
+			"pers_resources",
+			"full",
+			"/assets/resources/Web-Design-1-HTML-And-CSS/S07-Web-Imagery-SVG/S07-B-Chal-Slicing-Flowers/resources",
+			"public_html",
+			"master_assignments",
+			"'title'=>'ASC', 'titleDisplay'=>'ASC')",
+			"updateNotes",
+			"pref_videoSeries",
+			"pref_sublime",
+			"pref_joinMe",
+			"pref_showVideos",
+			"input",
+			"max_input_vars",
+			"$attendance_id",
+			"attendance_id",
+			"'Non Existent'",
+			"mynotes",
+			"attendance_id",
+			"reedirect",
+			"$user->save()",
+			"avatar_missing",
+			"user_avatars",
+			"{{ VIDEO }}",
+			"['videos']",
+			"$session->videos",
+			"$session['videos']",
+			"Session",
+			"session",
+			"sessID",
+			"videos",
+			"ssh",
+			"course_assignemnt",
+			"assets",
+			"multipart/x-zip",
+			"p>",
+			"||",
+			"session",
+			"$input['sessionNumber']",
+			"input['",
+			"assignSubmit",
+			"Admin",
+			"Teaching",
+			"Observing",
+			"Completed",
+			"Withdrawn",
+			"Registered",
+			"Inactive",
+			"Admin",
+			"loginAs",
+			"login",
+			"'id', 'code', 'title', 'titleDisplay', 'startDate', 'room'",
+			" Course::",
+			"'courses as c'",
+			"']",
+			"routeParamters",
+			"foreach",
+			");",
+			"assignPtsConverted",
+			"assignment->due",
+			"weekEnds",
+			"deadline_timestamp",
+			"student_assignments",
+			"li>",
+			"sample",
+			"$student->",
+			"$student->grades",
+			"Points",
+			"points",
+			"Grade::course_grades",
+			"Grade::",
+			"Grade",
+			"course_master",
+			"You do not have access",
+			"Sorry. You do not have access the course you are attempting to open.\n",
+			"tempArray",
+			"$grade['assignment']->",
+			"$grade['assignment']['grade']",
+			"$grade['student']->",
+			"$grade",
+			"$rubric->grade",
+			"$rubric->grade->id",
+			"$rubric->id",
+			"$grade['assignment']->grade['",
+			"$rubric['id']",
+			"$rubric->grade['",
+			"$rubric['",
+			"['assignment']",
+			"uploads['submissions']",
+			"$submission->",
+			"$evaluation->assignment_evaluated['accum']",
+			"$rubric['",
+			"$value['",
+			"$student->grades['Assignments']",
+			"->student->",
+			"registration_id",
+			"$student->",
+			"$grade['student']",
+			"student->",
+			"evaluation",
+			"assignmentID"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"notes",
+			"videoSeries",
+			"sublime",
+			"joinMe",
+			"videos",
+			"use App\\Rubric",
+			"Rubric::",
+			"rubric",
+			"pref_sublime",
+			"sublime",
+			"pref_sublime",
+			"pref_joinMe",
+			"pref_showVideos",
+			"startTime",
+			"startDate",
+			"dayOfWeek",
+			"room",
+			"lectureLab",
+			"creditHours",
+			"books",
+			"hardwareSoftware",
+			"requisiteCourses",
+			"priorKnowledge",
+			"competencies",
+			"description",
+			"title",
+			"code",
+			"/hub/course/",
+			"crsDayOfWeek",
+			"/pages/hub/courses/",
+			"syllabus",
+			"<a href=\"/\">Sign In</a>",
+			"(../../fonts/",
+			"",
+			"../_fonts",
+			" :: 4-Page Recreate",
+			"http://issuu.com/lamodern/docs/lama-october2015-catalogue-1",
+			"LAMA-Conditions-of-Sale-2015.10.pdf",
+			"",
+			"<nav id=\"mainmenu\">\n				<a class=\"nav1 chosen\" href=\"nav-1.html\">Nav 1</a>\n				<a class=\"nav2\" href=\"nav-2.html\">Nav 2</a>\n				<a class=\"nav3\" href=\"nav-3.html\">Nav 3</a>\n				<a class=\"nav4\" href=\"nav-4.html\">Nav 4</a>\n				<a class=\"nav5\" href=\"nav-5.html\">Nav 5</a>\n			</nav>",
+			"\n		<style type=\"text/css\">\n			\n		</style>",
+			"Description",
+			"<h1>Project Decription<h1>",
+			"elizabeth@lamodern.com",
+			"../../fonts/",
+			"view('crm/customer/",
+			"@extends('templates/login')",
+			"@extends('main')",
+			"http://issuu.com/lamodern/docs/lama-may2015-catalogue-1",
+			"LAMA-Bid-Form-2015.04.22.pdf",
+			"-",
+			"https:/",
+			"LAMA-Bid-Form-2015.01.pdf",
+			"-----------------------------*/",
+			"/*------------------------------",
+			"../_fonts",
+			"-----------------------*/",
+			"/*-----------------------",
+			"../_img",
+			"src=\"_img/",
+			"src=\"_js/",
+			"href=\"_css/author.css\">",
+			"---------------------------*/",
+			"| ",
+			"/*--------------------------\n|",
+			"",
+			"</title>",
+			"---------------------------------*/",
+			"/*---------------------------------",
+			"---------------------------------*/",
+			"/*---------------------------------"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4175,
+								4186
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown (Standard).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1443.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "core.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								333,
+								333
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"auto_name": "http://nemesis271989.aisites.com",
+							"default_dir": "/Users/student/sites/bhs",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "core.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"grade",
+				"app/Grade.php"
+			],
+			[
+				"inc-session-assignment-list",
+				"views/pages/hub/course/inc-session-assignment-list.blade.php"
+			],
+			[
+				"session",
+				"views/pages/hub/course/session.blade.php"
+			],
+			[
+				"route",
+				"app/Http/routes.php"
+			],
+			[
+				"_class",
+				"public_html/assets/css/sass/_classroom.scss"
+			],
+			[
+				"sty",
+				"public_html/assets/css/styles.scss"
+			],
+			[
+				"routes",
+				"app/Http/routes.php"
+			],
+			[
+				"style",
+				"public_html/assets/css/styles.scss"
+			],
+			[
+				"user",
+				"app/User.php"
+			],
+			[
+				"pages/hub/course/grades/inc-overall",
+				"views/pages/hub/course/grades/inc-overall.blade.php"
+			],
+			[
+				"script",
+				"public_html/assets/js/scripts.js"
+			],
+			[
+				"frontdoorcontroller",
+				"app/Http/Controllers/FrontDoorController.php"
+			],
+			[
+				"series",
+				"views/pages/hub/videos/series.blade.php"
+			],
+			[
+				"/pages/hub/videos/inc-episode",
+				"views/pages/hub/videos/inc-episode.blade.php"
+			],
+			[
+				"videoblade",
+				"views/pages/hub/videos/episode.blade.php"
+			],
+			[
+				"session.blade",
+				"views/pages/hub/course/session.blade.php"
+			],
+			[
+				"session.blad",
+				"views/pages/hub/course/session.blade.php"
+			],
+			[
+				"/pages/hub/course/admin/nav",
+				"views/pages/hub/course/admin/nav.blade.php"
+			],
+			[
+				"gra",
+				"app/Http/Controllers/GradesController.php"
+			],
+			[
+				"atte",
+				"app/Attendance.php"
+			],
+			[
+				"atten",
+				"views/pages/hub/course/admin/gradebook/attendance.blade.php"
+			],
+			[
+				"synhtm",
+				"public_html/assets/uploads/_PERSISTENT/jquery-1-assignments/S01-C-Proj-WhenPigsFly/Mitch's When Pigs Fly/index.html"
+			],
+			[
+				"gradebookcontrol",
+				"app/Http/Controllers/GradebookController.php"
+			],
+			[
+				"create",
+				"views/pages/create.blade.php"
+			],
+			[
+				"inc-assignment",
+				"views/pages/hub/course/assignments/inc-assignment.blade.php"
+			],
+			[
+				"assignment",
+				"views/pages/hub/course/assignments/assignment.blade.php"
+			],
+			[
+				"inc-episode",
+				"views/pages/hub/videos/inc-episode.blade.php"
+			],
+			[
+				"inc-assign",
+				"views/pages/hub/course/assignments/inc-assignment.blade.php"
+			],
+			[
+				"assignment.blade",
+				"views/pages/hub/course/assignments/assignment.blade.php"
+			],
+			[
+				"sessionblade",
+				"views/pages/hub/course/session.blade.php"
+			],
+			[
+				"front",
+				"app/Http/Controllers/FrontDoorController.php"
+			],
+			[
+				"hub",
+				"app/Http/Controllers/HubController.php"
+			],
+			[
+				"epis",
+				"app/VideosEpisode.php"
+			],
+			[
+				"course",
+				"app/Course.php"
+			],
+			[
+				"coursecont",
+				"app/Http/Controllers/CourseController.php"
+			],
+			[
+				"inc-assi",
+				"views/pages/hub/course/assignments/inc-assignment.blade.php"
+			],
+			[
+				"inc-assignment.blade.php",
+				"views/pages/hub/course/assignments/inc-assignment.blade.php"
+			],
+			[
+				"assignm",
+				"app/Assignment.php"
+			],
+			[
+				"cours",
+				"app/Course.php"
+			],
+			[
+				"inc-submission-form",
+				"views/pages/hub/course/assignments/inc-submission-form.blade.php"
+			],
+			[
+				"episode",
+				"views/pages/hub/videos/episode.blade.php"
+			],
+			[
+				"coursecontrol",
+				"app/Http/Controllers/CourseController.php"
+			],
+			[
+				"assignmentblade",
+				"views/pages/hub/course/assignments/assignment.blade.php"
+			],
+			[
+				"assignblade",
+				"views/pages/hub/course/admin/assignment.blade.php"
+			],
+			[
+				"assign",
+				"app/Assignment.php"
+			],
+			[
+				"session.bla",
+				"views/pages/hub/course/session.blade.php"
+			],
+			[
+				"sesion",
+				"app/Session.php"
+			],
+			[
+				"incform",
+				"views/pages/hub/course/assignments/inc-submission-form.blade.php"
+			],
+			[
+				"dashboard.blade.php",
+				"views/pages/hub/dashboard.blade.php"
+			],
+			[
+				"registration",
+				"app/Registration.php"
+			],
+			[
+				"registra",
+				"app/Registration.php"
+			],
+			[
+				"hubcon",
+				"app/Http/Controllers/HubController.php"
+			],
+			[
+				"dashbblad",
+				"views/pages/hub/dashboard.blade.php"
+			],
+			[
+				"exceptionhandler",
+				"vendor/symfony/debug/ExceptionHandler.php"
+			],
+			[
+				"control",
+				"app/Http/Controllers/Controller.php"
+			],
+			[
+				"hubcontroller",
+				"app/Http/Controllers/HubController.php"
+			],
+			[
+				"syll",
+				"views/pages/hub/course/syllabus.blade.php"
+			],
+			[
+				"admin/assignments",
+				"views/pages/hub/course/admin/assignments.blade.php"
+			],
+			[
+				"student.blade.php",
+				"views/pages/hub/course/admin/gradebook/student.blade.php"
+			],
+			[
+				"rubri",
+				"app/Rubric.php"
+			],
+			[
+				"assignmn",
+				"app/Assignment.php"
+			],
+			[
+				"inc-submission-form.blade.php",
+				"views/pages/hub/course/assignments/inc-submission-form.blade.php"
+			],
+			[
+				"dash",
+				"views/pages/hub/dashboard.blade.php"
+			],
+			[
+				"registrat",
+				"app/Registration.php"
+			],
+			[
+				"assi",
+				"views/pages/hub/course/assignments/assignment.blade.php"
+			],
+			[
+				"pages/hub/course/assignments/assignment",
+				"views/pages/hub/course/assignments/assignment.blade.php"
+			],
+			[
+				"styl",
+				"public_html/assets/css/styles.scss"
+			],
+			[
+				"cour",
+				"app/Course.php"
+			],
+			[
+				"scrip",
+				"public_html/assets/js/scripts.js"
+			],
+			[
+				"gradebook/stu",
+				"views/pages/hub/course/admin/gradebook/student.blade.php"
+			],
+			[
+				"admin/att",
+				"views/pages/hub/course/admin/gradebook/attendance.blade.php"
+			],
+			[
+				"gradebook",
+				"app/Http/Controllers/GradebookController.php"
+			],
+			[
+				"type",
+				"public_html/assets/css/sass/_type-classes.scss"
+			],
+			[
+				"_tyo",
+				"public_html/assets/js/vendor/tinymce/skins/lightgray/fonts/tinymce.woff"
+			],
+			[
+				"syllab",
+				"views/pages/hub/course/syllabus.blade.php"
+			],
+			[
+				"courcontr",
+				"app/Http/Controllers/CourseController.php"
+			],
+			[
+				"_ga",
+				"public_html/assets/css/sass/_gradebook.scss"
+			],
+			[
+				"coursecontroller",
+				"app/Http/Controllers/CourseController.php"
+			],
+			[
+				"assignment.blade.php",
+				"views/pages/hub/course/admin/assignment.blade.php"
+			],
+			[
+				"_ty",
+				"public_html/assets/css/sass/_type-classes.scss"
+			],
+			[
+				"_boo",
+				"public_html/assets/css/sass/_bootstrap-overides.scss"
+			],
+			[
+				"_grad",
+				"public_html/assets/css/sass/_grades.scss"
+			],
+			[
+				"_",
+				"public_html/assets/css/.sass-cache/76e29c95787858d9195fc3da1d88744008658619/_grades.scssc"
+			],
+			[
+				"rubric",
+				"app/Rubric.php"
+			],
+			[
+				"gradebyass",
+				"views/pages/hub/course/admin/gradebook/gradeByAssignment.blade.php"
+			],
+			[
+				"grade_categories",
+				"app/Grade_Categories.php"
+			],
+			[
+				"sess",
+				"app/Session.php"
+			],
+			[
+				"inc-assignment-submission-form",
+				"views/pages/hub/course/inc-assignment-submission-form.blade.php"
+			],
+			[
+				"inc-assignment-profile",
+				"views/pages/hub/course/inc-assignment-profile.blade.php"
+			],
+			[
+				"pages/hub/course/assignment",
+				"views/pages/hub/course/assignment.blade.php"
+			],
+			[
+				"gradebook/gradebyassignment",
+				"views/pages/hub/course/admin/gradebook/gradeByAssignment.blade.php"
+			],
+			[
+				"inc-assignment-profile.blade.php",
+				"views/pages/hub/course/inc-assignment-profile.blade.php"
+			],
+			[
+				"scri",
+				"public_html/assets/js/scripts.js"
+			],
+			[
+				"_admin",
+				"public_html/assets/css/sass/_admin.scss"
+			],
+			[
+				"inc-assignpro",
+				"views/pages/hub/course/inc-assignment-profile.blade.php"
+			],
+			[
+				"reg",
+				"app/Registration.php"
+			],
+			[
+				"regist",
+				"app/Registration.php"
+			],
+			[
+				"admin/gradebook/hub",
+				"views/pages/hub/course/admin/gradebook/hub.blade.php"
+			],
+			[
+				"incassignment",
+				"views/pages/hub/course/inc-assignment-profile.blade.php"
+			],
+			[
+				"gradebyassignment.blade.php",
+				"views/pages/hub/course/admin/gradebook/gradeByAssignment.blade.php"
+			],
+			[
+				"clas",
+				"views/pages/hub/course/classmates.blade.php"
+			],
+			[
+				"class",
+				"public_html/assets/css/sass/_classroom.scss"
+			],
+			[
+				"grad",
+				"app/Grade.php"
+			],
+			[
+				"gradhub",
+				"views/pages/hub/course/admin/gradebook/hub.blade.php"
+			],
+			[
+				"scr",
+				"public_html/assets/js/scripts.js"
+			],
+			[
+				"_adm",
+				"public_html/assets/css/sass/_admin.scss"
+			],
+			[
+				"gradecontrol",
+				"app/Http/Controllers/CourseAdminGradebookController.php"
+			],
+			[
+				"rute",
+				"app/Http/routes.php"
+			],
+			[
+				"incass",
+				"views/pages/hub/course/inc-assignment-profile.blade.php"
+			],
+			[
+				"gradeable",
+				"app/Gradeable.php"
+			],
+			[
+				"admin/gradebook/",
+				"resources/views/pages/hub/course/admin/gradebook/gradeByAssignment.blade.php"
+			],
+			[
+				"_admi",
+				"public_html/assets/css/sass/_admin.scss"
+			],
+			[
+				"gradebook/attendance.blade.php",
+				"resources/views/pages/hub/course/admin/gradebook/attendance.blade.php"
+			],
+			[
+				"gradecont",
+				"app/Http/Controllers/CourseAdminGradebookController.php"
+			],
+			[
+				"classma",
+				"resources/views/pages/hub/course/classmates.blade.php"
+			],
+			[
+				"regis",
+				"app/Registration.php"
+			],
+			[
+				"courscontr",
+				"app/Http/Controllers/CourseController.php"
+			],
+			[
+				"admin/sess",
+				"resources/views/pages/hub/course/admin/sessions.blade.php"
+			],
+			[
+				"admin/assi",
+				"resources/views/pages/hub/course/admin/assignments.blade.php"
+			],
+			[
+				"admin/assign",
+				"resources/views/pages/hub/course/admin/assignment.blade.php"
+			],
+			[
+				"hubcont",
+				"app/Http/Controllers/HubController.php"
+			],
+			[
+				"admin/assignment.blade",
+				"resources/views/pages/hub/course/admin/assignment.blade.php"
+			],
+			[
+				"assignme",
+				"app/Assignment.php"
+			],
+			[
+				"_form",
+				"public_html/assets/css/sass/_forms.scss"
+			],
+			[
+				"admincontrol",
+				"app/Http/Controllers/CourseAdminController.php"
+			],
+			[
+				"admin/inde",
+				"resources/views/pages/hub/course/admin/index.blade.php"
+			],
+			[
+				"sessblad",
+				"resources/views/pages/hub/course/session.blade.php"
+			],
+			[
+				"_dash",
+				"public_html/assets/css/sass/_dashboard.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/MeatchPod/_CLIENTS/_Enspyred/enspyred.com_2016.01-Laravel5/enspyred.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 331.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
